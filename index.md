@@ -1,4 +1,4 @@
-## I am an ASSHOLE
+## I am an Computer Hobbiest
 
 You can use the [editor on GitHub](https://github.com/dhruvann/dhruvann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# ASSHOLE 1
-## ASSHOLE 2
-### ASSHOLE 3
+#  1
+##  2
+###  3
 
 - Bulleted
 - List
